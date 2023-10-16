@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img//SPD_Hand_5_rot-frei_RGB.svg').default,
     description: (
       <>
-        Unser Kiez ist Heimat von XX Menschen. Nur gemeinsam und in Abtimung mit Anwohnern, Betrieben und auch den Gästen aus aller Welt kann dieser gestaltet werden. 
+        Unser Kiez ist Heimat von XX Menschen. Nur gemeinsam und in Abstimung mit Anwohnern, Betrieben und auch den Gästen aus aller Welt kann dieser gestaltet werden. 
       </>
     ),
   },
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Für ein modernes Mitte',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/SPD_Web_rot-frei_RGB.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can

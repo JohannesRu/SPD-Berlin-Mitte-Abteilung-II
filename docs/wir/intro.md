@@ -23,9 +23,10 @@ In unserem Abteilungsgebiet leben XX Menschen für und mit denen wir unsere Nach
 ### David Schmitz
 ### Lucas Hawrylak 
 
-## Weitere
-### Kassierer Lennart Schmidt
-### Schriftführerin Bettina Andrae
+## Kassierer
+### Lennart Schmidt
+## Schriftführerin 
+### Bettina Andrae
 ## Bekannte Mitglieder
 
 ### Verena Hubertz
