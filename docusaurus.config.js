@@ -151,47 +151,16 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} SPD Abteilung Mitte II Alexanderplatz.`,
+        style: 'light',
+        links: [],
+        copyright: `Copyright © ${new Date().getFullYear()} - <b>SPD Abteilung Mitte II Alexanderplatz</b> - <a href="/docs/impressum">Impressum</a>`,
       },
       prism: {
         theme: spdColorTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+    scripts: [{src: 'http://127.0.0.1:8000/js/script.local.js', defer: true, 'data-domain': 'localhost'}],
 };
 
 module.exports = config;

@@ -26,8 +26,8 @@ const FeatureList = [
     Svg: require('@site/static/img/SPD_Web_rot-frei_RGB.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Wir sind uns unserer besonderen Rolle als zentraler Kiez in einer der attraktivsten Hauptstädte Europas sehr bewusst. 
+        Hier kann und muss moderne zukunftsweisende Politik angepackt und vorgelebt werden.
       </>
     ),
   },

@@ -30,4 +30,4 @@ Bezirksamt, Landes-, Bunedes- oder unsere Europäische Fraktion.
 
 ## Prozess
 
-## TODO: Bild
+![prozess](/img/Antragsprogress.png)
