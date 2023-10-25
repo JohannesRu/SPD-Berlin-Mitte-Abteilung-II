@@ -14,6 +14,8 @@ Gegendemos
 
 Mehr Infos zum Stolperstein Projekt gibt's [hier](https://www.stolpersteine.eu/start)
 
+### Solidarität für Israel
+
 ## Miteinander für den Kiez 
 
 ### Verkehrberuhigter Kiez

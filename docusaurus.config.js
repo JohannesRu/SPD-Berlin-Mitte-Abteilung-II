@@ -128,7 +128,7 @@ const config = {
             position: 'left',
             label: 'Aktuelles',
           },
-          {to: '/blog', label: 'Mach mit!', position: 'left'},
+          {to: '/machmit', label: 'Mach mit!', position: 'left'},
           {
             type: 'dropdown',
             label: 'Mehr SPD',
