@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function Profile(props) {
-  const src = '/img/' + props.srcName
+  const src = '/abteilungs-page-exp/img/' + props.srcName
   const twitter = 'https://www.twitter.com/' + props.twitter
   const instagram = 'https://www.instagram.com/' + props.instagram
   return (
@@ -19,14 +19,14 @@ export default function Profile(props) {
         {
           props.instagram ? 
             <a href={instagram} target="_blank">
-              <img className='profile-a-img' src='/img/SPD_Instagram_rot-frei_RGB.png'></img>
+              <img className='profile-a-img' src='/abteilungs-page-exp/img/SPD_Instagram_rot-frei_RGB.png'></img>
             </a>
           : <></>
         }
         {
           props.twitter ? 
             <a href={twitter} target="_blank">
-              <img className='profile-a-img' src='/img/SPD_Twitter_rot-frei_RGB.png'></img>
+              <img className='profile-a-img' src='/abteilungs-page-exp/img/SPD_Twitter_rot-frei_RGB.png'></img>
             </a>
           : <></>
         }
