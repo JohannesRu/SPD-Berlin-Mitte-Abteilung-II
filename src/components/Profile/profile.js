@@ -4,6 +4,7 @@ export default function Profile(props) {
   const src = '/abteilungs-page-exp/img/' + props.srcName
   const twitter = 'https://www.twitter.com/' + props.twitter
   const instagram = 'https://www.instagram.com/' + props.instagram
+  const mail = 'mailto:' + props.mail
   return (
       <div className="profile">
         {
@@ -14,6 +15,13 @@ export default function Profile(props) {
         <h2>{props.name}</h2>
         {props.rolle ? 
           <h4>{props.rolle}</h4>
+          : <></>
+        }
+        {
+          props.mail ? 
+            <a href={mail} target="_blank">
+              <img className='profile-a-img' src='/abteilungs-page-exp/img/SPD_E-Mail_rot-frei_RGB.png'></img>
+            </a>
           : <></>
         }
         {

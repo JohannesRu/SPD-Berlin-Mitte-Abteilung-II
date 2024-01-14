@@ -22,7 +22,7 @@ export default function MachMit() {
             </div>
             <div>
                 <h2>Komm vorbei</h2>
-                <a href='/docs/aktuelles' className='machmit-a'>
+                <a href='/docs/wir/aktuelles' className='machmit-a'>
                     <img className='machmit-img' src='/abteilungs-page-exp/img/SPD_Hand_5_weiss-frei_RGB.png'></img>    
                 </a>
             </div>

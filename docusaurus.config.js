@@ -59,7 +59,7 @@ const spdColorTheme = {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Mitte II Alexanderplatz',
+  title: 'Mitte II: Alexanderplatz',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.svg',
 
@@ -110,23 +110,17 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Mitte II Alexanderplatz',
+        title: 'Mitte II: Alexanderplatz',
         logo: {
           alt: 'My Site Logo',
           src: 'img/SPD-Logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'wirSidebar',
+            type: 'doc',
+            docId: 'wir/intro',
             position: 'left',
             label: 'Wir',
-          },
-          {
-            type: 'doc',
-            docId: 'aktuelles',
-            position: 'left',
-            label: 'Aktuelles',
           },
           {to: '/machmit', label: 'Mach mit!', position: 'left'},
           {
@@ -153,7 +147,7 @@ const config = {
       footer: {
         style: 'light',
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} - <b>SPD Abteilung Mitte II Alexanderplatz</b> - <a href="/docs/impressum">Impressum</a>`,
+        copyright: `<b>SPD Abteilung Mitte II Alexanderplatz</b><a href="https://www.instagram.com/spdberlin_alex/"><img src="/abteilungs-page-exp/img/SPD_Instagram_rot-frei_RGB.png"></img></a>   <a href="/docs/impressum">Impressum</a>`,
       },
       prism: {
         theme: spdColorTheme,
