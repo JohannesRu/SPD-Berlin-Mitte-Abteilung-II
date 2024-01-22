@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img//SPD_Hand_5_rot-frei_RGB.svg').default,
     description: (
       <>
-        Unser Kiez ist Heimat von XX Menschen. Nur gemeinsam und in Abstimung mit Anwohnern, Betrieben und auch den Gästen aus aller Welt kann dieser gestaltet werden. 
+        Unser Kiez ist Heimat von Menschen unterschiedlichster Herkunft, Einkommen und Lebensmodellen. Nur gemeinsam und in Abstimung mit Anwohnern, Betrieben und auch den Gästen aus aller Welt kann dieser gestaltet werden. 
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/SPD_Web_rot-frei_RGB.svg').default,
     description: (
       <>
-        Wir sind uns unserer besonderen Rolle als zentraler Kiez in einer der attraktivsten Hauptstädte Europas sehr bewusst. 
+        Wir sind uns der besonderen Rolle als zentraler Kiez in einer der attraktivsten Hauptstädte Europas sehr bewusst. 
         Hier kann und muss moderne zukunftsweisende Politik angepackt und vorgelebt werden.
       </>
     ),

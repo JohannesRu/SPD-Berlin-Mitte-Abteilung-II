@@ -30,7 +30,3 @@ Unser Ziel ist, das Viertel vom Durchgangsverkehr zu befreien, der aktuell nicht
 
 [Mehr Infos](https://www.kiezblocks.de/auguststrasse/)
 
-### Unterstützung im Wahlkampf
-
-### Politik gestalten
-Anträge...

@@ -13,22 +13,25 @@ Sie sind **Grundlage für Gesetze, Beschlüsse, Koalitionsverträge und internen
 ### Was ist ein Antrag
 ![Antrag](/img/SPD_Parteibuch_rot-frei_RGB.svg)
 
-Ein Antrag ist nichts weiter als ein schriftliches Dokument ohne festgeschirbene Form.
+Ein Antrag ist nichts weiter als ein schriftliches, formloses Dokument.
 
-Anträge bestehen richten sich an einen oder mehrere Adressaten und bestehen aus einem Titel, einer Forderung, sowie einer Begründung bzw. Absichtserläuterung.
+Er richten sich an einen oder mehrere Adressaten und bestehen aus **einem Titel, einer Forderung, sowie einer Begründung** bzw. Absichtserläuterung.
 
-#### Adressaten
-Anträge können an die politischen Gremien auf jeder Ebene gestellt werden.
-Bezirksamt, Landes-, Bunedes- oder unsere Europäische Fraktion.
+Anträge können an die politischen Gremien auf jeder Ebene *(Bezirksamt, Landes-, Bunedes- oder unsere Europäische Fraktion.)* gestellt werden, und können jegliche Themen, Meinungen und Standpunkte beinhalten,
 
-<details>
-  <summary>Was ist eine Fraktion?</summary>
-  <div>
+Sein Ziel ist eine nachvollziehbare, demokratisch legitimierte Gestaltung der Partei, ihrer Positionen und somit langfristig unsere Legislatur zu beeinflussen.
 
-  </div>
-</details>
 
 ### Unsere Anträge
+
+Folgende Anträge sind in den letzten Jahren in unserer Abteilung entstanden
+
+| Name                                                                                                                                                                                                                | Datum                                                                          | Status | Von |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------ | --------------- |
+| [Mehrweg in Gastronomie endlich umsetzen – Abgabe für Einwegverpackungen einführen](https://kdv.spd-berlin-mitte.de/cvtx_antrag/mehrweg-in-gastronomie-endlich-umsetzen-abgabe-fuer-einwegverpackungen-einfuehren/) | [KDV 18.11.2023](https://kdv.spd-berlin-mitte.de/veranstaltungen/kdv-mitte-18-11-2023/) |  ✅ Angenommen       | Anna Krigar, Johannes Ott                 |
+|                                                                                                                                                                                                                     |                                                                                         |        |                 |
+
+
 
 ### Prozess
 
@@ -36,8 +39,16 @@ https://www.spd-fraktion-mitte.de/index.php
 
 ![prozess](/img/Antragsprogress.png)
 
+## Wahlkampf
+Ob Bezirk-, Abgeordnetenhaus-, Bundes-, oder Europawahl. Auf allen Ebenen gibt es starke Genossinnen und Genossen, die wir aktiv im Wahlkampf unterstützen.
+
+Plakatieren, Fylern, Tür-Zu-Tür Campaigning, Infostände uvm. - wir packen's an! 
 
 ## Arbeitskreis/-gemeinschaft
+
+Darüber hinaus sind Mitglieder unsere Abteilungen in unterschiedlichsten Kreisen und Gemeinschaften der SPD unterwegs. 
+
+Du hast Interesse an einem Thema? Sprich uns an - bring dich ein! 
 
 ### Berlin-Mitte
 
