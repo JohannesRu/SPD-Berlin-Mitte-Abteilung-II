@@ -45,8 +45,41 @@
   src: url('/fonts/SPD_TheSans_TT5_.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: "SPD_TheSansVersal Light";
+  src: url('/fonts/SPD_TheSans_TT3_.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "SPD_TheSansVersal Bold";
+  src: url('/fonts/SPD_TheSans_TT8_.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "SPD_TheSansVersal Regular";
+  src: url('/fonts/SPD_TheSans_TT5_.ttf') format('truetype');
+}
+
 :root {
   --ifm-font-family-base: "SPD_TheSans Regular"
+}
+
+h1 {
+  font-family: "SPD_TheSansVersal Bold";
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: "SPD_TheSansVersal Bold";
+  text-transform: uppercase;
+}
+
+footer {
+  height: 62px;
+}
+
+.footer {
+  padding: 20px;
 }
 
 .footer__copyright a img {

@@ -12,7 +12,7 @@ export default function Profile(props) {
           <img className='profile-img' src={src}></img>
           : <div style={{height: (props.rolle? "4px": "112px")}}></div>
         }
-        <h2>{props.name}</h2>
+        <h3>{props.name}</h3>
         {props.rolle ? 
           <h4>{props.rolle}</h4>
           : <></>
