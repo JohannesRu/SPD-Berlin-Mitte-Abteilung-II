@@ -18,18 +18,18 @@ export default function MachMit() {
             <h1 className='machmit-headline'>Mach mit!</h1>
             <div>
                 <h2>Schreib uns an</h2>
-                <a aria-label="Chat auf WhatsApp" target="_blank" href="https://wa.me/491772902562"><img alt="Chat on WhatsApp" src="/abteilungs-page-exp/img/WhatsAppButtonWhiteLarge.svg" /></a>
+                <a aria-label="Chat auf WhatsApp" target="_blank" href="https://wa.me/491772902562"><img alt="Chat on WhatsApp" src="/img/WhatsAppButtonWhiteLarge.svg" /></a>
             </div>
             <div>
                 <h2>Komm vorbei</h2>
                 <a href='/docs/wir/aktuelles' className='machmit-a'>
-                    <img className='machmit-img' src='/abteilungs-page-exp/img/SPD_Hand_5_weiss-frei_RGB.png'></img>    
+                    <img className='machmit-img' src='/img/SPD_Hand_5_weiss-frei_RGB.png'></img>    
                 </a>
             </div>
             <div>
                 <h2>Folg' uns</h2>
                 <a href='https://www.instagram.com/spdberlin_alex/' target="_blank" className='machmit-a'>
-                    <img className='machmit-img' src='/abteilungs-page-exp/img/SPD_Instagram_weiss-frei_RGB.png'></img>
+                    <img className='machmit-img' src='/img/SPD_Instagram_weiss-frei_RGB.png'></img>
                 </a>
             </div>
         </div>
