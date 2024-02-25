@@ -151,7 +151,9 @@ const config = {
           <a href="https://www.instagram.com/spdberlin_alex/"><img src="/img/SPD_Instagram_rot-frei_RGB.png"></img></a>   
           <b>SPD Abteilung Mitte II Alexanderplatz</b><span>  </span>      
           <a href="/docs/impressum">Impressum</a> - 
-          <a href="/docs/datenschutz">Datenschutz</a>`,
+          <a href="/docs/datenschutz">Datenschutz</a> <br></br>
+          <span>Diese Seite verwendet ausschließlich technisch notwendige <a href="/docs/cookies">Cookies</a>. </span> 
+          `,
       },
       prism: {
         theme: spdColorTheme,
