@@ -75,11 +75,11 @@ h2 {
 }
 
 footer {
-  height: 62px;
+  height: 48px;
 }
 
-.footer {
-  padding: 20px;
+.footer__copyright {
+  margin-top: -12px
 }
 
 .footer__copyright a img {
@@ -130,14 +130,28 @@ text-align: center;
   background-color: #E3000F;
 }
 
+.main-machmit {
+  background-color: #E3000F;
+  height: 94vh;
+}
+
 .machmit {
   background-color: #E3000F;
-  color: white;
-  height: 82vh;
+  color: hsl(0, 0%, 100%);
   text-align: center;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+}
+
+.machmit-list {
+  display: flex;
+  gap: 24px;
+  flex-direction: column;
+  align-content: flex-start;
   justify-content: space-around;
+  flex-grow: 2;
+  height: 65vh;
 }
 
 .machmit-img {
@@ -147,4 +161,5 @@ text-align: center;
 .machmit-headline {
   font-size: 62px;
   font-family: "SPD_TheSans Bold";
+  flex-grow: 1;
 }
