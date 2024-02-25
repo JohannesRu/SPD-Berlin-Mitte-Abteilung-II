@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="SozialdemokratInnen aus deinem Kiez. <head />">
+      description="170+ SozialdemokratInnen aus deinem Kiez. <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
