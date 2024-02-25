@@ -36,7 +36,9 @@ Folgende Anträge sind in den letzten Jahren in unserer Abteilung entstanden
 
 ### Prozess
 
-https://www.spd-fraktion-mitte.de/index.php
+Jede*r kann einen Antrag einbringen. **Du hast eine Idee oder Vorschläge? Bring dich ein!** Gemeinsam in der Abteilung besprechen wir, wie und wann du diesen am besten einbringen kannst.
+
+Jeder Antrag wird zuerst auf Abteilungsebene abgestimmt. Erfolgreiche Anträge bringen wir dann, entsprechend dem Addressaten, in den Kreis (also Berlin Mitte) ein. Sollte sich dieser ebenfalls zustimmen, befasst sich die SPD Landesparteitag mit dem Anliegen, danach der Bundesparteitag, und bis schließlich kann ein Antrag sogar bis in die Europapolitik greifen. 
 
 ![prozess](/img/Antragsprogress.png)
 
