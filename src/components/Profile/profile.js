@@ -1,14 +1,14 @@
 import React from 'react';
 
 export default function Profile(props) {
-  const src = '/img/' + props.srcName
+  const src = '/img/' + (props.srcName)
   const twitter = 'https://www.twitter.com/' + props.twitter
   const instagram = 'https://www.instagram.com/' + props.instagram
   const mail = 'mailto:' + props.mail
   return (
       <div className="profile">
         {
-          props.srcName ?   
+          true ?   
           <img className='profile-img' src={src}></img>
           : <div style={{height: (props.rolle? "4px": "112px")}}></div>
         }
