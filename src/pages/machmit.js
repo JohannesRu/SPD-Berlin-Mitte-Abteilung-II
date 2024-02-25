@@ -11,8 +11,8 @@ export default function MachMit() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Mach mit!<head />">
       <main>
         <div class='machmit'>
             <h1 className='machmit-headline'>Mach mit!</h1>
