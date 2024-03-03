@@ -5,6 +5,7 @@ export default function Profile(props) {
   const twitter = 'https://www.twitter.com/' + props.twitter
   const instagram = 'https://www.instagram.com/' + props.instagram
   const mail = 'mailto:' + props.mail
+  const website = props.website
   return (
       <div className="profile">
         {
@@ -35,6 +36,13 @@ export default function Profile(props) {
           props.twitter ? 
             <a href={twitter} target="_blank">
               <img className='profile-a-img' src='/img/SPD_Twitter_rot-frei_RGB.png'></img>
+            </a>
+          : <></>
+        }
+        {
+          props.website ? 
+            <a href={website} target="_blank">
+              <img className='profile-a-img' src='/img/SPD_Web_rot-frei_RGB.png'></img>
             </a>
           : <></>
         }
