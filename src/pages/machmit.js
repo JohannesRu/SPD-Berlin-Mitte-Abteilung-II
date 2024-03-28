@@ -7,6 +7,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
+
 export default function MachMit() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -15,10 +16,12 @@ export default function MachMit() {
       description="Mach mit!<head />">
       <main className='main-machmit'>
         <div class='machmit'>
-            <h1 className='machmit-headline'>Mach mit!</h1>
+            <h1 className='machmit-headline'>Mach mit </h1>
+            <h2>Auch du kannst Teil einer demokratischen Bewegung für deinen Kiez sein. Es ist ganz einfach!</h2>
             <div className='machmit-list'>
               <div>
                   <h2>Schreib uns an</h2>
+                  {/* // TODO: Add Email */}
                   <a aria-label="Chat auf WhatsApp" target="_blank" href="https://wa.me/491772902562"><img alt="Chat on WhatsApp" src="/img/WhatsAppButtonWhiteLarge.svg" /></a>
               </div>
               <div>

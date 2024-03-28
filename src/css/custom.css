@@ -64,6 +64,14 @@
   --ifm-font-family-base: "SPD_TheSans Regular"
 }
 
+.navbar__logo {
+  margin-right: 24px;
+}
+
+.navbar__title {
+  color: #E3000F;
+}
+
 h1 {
   font-family: "SPD_TheSansVersal Bold";
   text-transform: uppercase;

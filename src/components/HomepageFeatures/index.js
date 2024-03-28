@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img//SPD_Hand_5_rot-frei_RGB.svg').default,
     description: (
       <>
-        Unser Kiez ist Heimat von Menschen unterschiedlichster Herkunft, Einkommen und Lebensmodellen. Nur gemeinsam und in Abstimung mit Anwohnern, Betrieben und auch den Gästen aus aller Welt kann dieser gestaltet werden. 
+        Unser Kiez ist Heimat von Menschen unterschiedlichster Herkunft, Einkommen und Lebensmodellen. Nur gemeinsam in Abstimmung mit Anwohner*Innen, Betrieben und auch den Gästen aus aller Welt kann dieser lebenswert gestaltet werden. 
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/SPD_Faust_rot-frei_RGB.svg').default,
     description: (
       <>
-        Wir tolerieren keinerlei rechtes oder in sonstiger Weise diskriminierendes Gedankengut. Wir verstehen es als unsere Pflicht hier entschieden gegenzuwirken.
+        Wir tolerieren keinerlei rechtes oder in sonstiger Weise diskriminierendes Gedankengut oder Handlungen! Wir sehen es als unsere  Pflicht, hier entschieden gegenzuwirken.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/SPD_Web_rot-frei_RGB.svg').default,
     description: (
       <>
-        Wir sind uns der besonderen Rolle als zentraler Kiez in einer der attraktivsten Hauptstädte Europas sehr bewusst. 
+        Wir sind uns der besonderen Rolle als zentraler Kiez in einer der attraktivsten Hauptstädte Europas bewusst. 
         Hier kann und muss moderne zukunftsweisende Politik angepackt und vorgelebt werden.
       </>
     ),

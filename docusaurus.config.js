@@ -59,7 +59,7 @@ const spdColorTheme = {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Mitte II: Alexanderplatz',
+  title: 'Berlin-Mitte / Alexanderplatz',
   tagline: 'Sozialdemokraten für deinen Kiez',
   favicon: 'img/favicon.svg',
 
@@ -110,7 +110,7 @@ const config = {
     ({
       image: 'img/SPD_Mitte_Preview.png',
       navbar: {
-        title: 'Mitte II: Alexanderplatz',
+        title: 'Berlin-Mitte / Alexanderplatz',
         logo: {
           alt: 'SPD Logo',
           src: 'img/SPD-Logo.svg',
@@ -119,10 +119,10 @@ const config = {
           {
             type: 'doc',
             docId: 'wir/intro',
-            position: 'left',
+            position: 'right',
             label: 'Wir',
           },
-          {to: '/machmit', label: 'Mach mit!', position: 'left'},
+          {to: '/machmit', label: 'Mach mit!', position: 'right'},
           {
             type: 'dropdown',
             label: 'Mehr SPD',

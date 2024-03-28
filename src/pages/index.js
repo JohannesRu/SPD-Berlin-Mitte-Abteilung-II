@@ -13,12 +13,12 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title machmit-headline">{siteConfig.title}</h1>
-        <p className="hero__subtitle">Infopage für GenossInnen und Interessierte in unserem Kiez</p>
+        <p className="hero__subtitle">Für einen lebenswerten Kiez: Für Alle.</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/wir/intro">
-            Lern uns kennen
+            Jetzt mitmachen!
           </Link>
         </div>
       </div>
