@@ -122,6 +122,7 @@ const config = {
             position: 'right',
             label: 'Wir',
           },
+          {to: 'blog', label: 'Blog', position: 'right'}, // or position: 'right'
           {to: '/machmit', label: 'Mach mit!', position: 'right'},
           {
             type: 'dropdown',
