@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkabteilung_mitte_ii=self.webpackChunkabteilung_mitte_ii||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Wahl des Landesvorstands","permalink":"/blog/wahl-des-landesvorstands"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkabteilung_mitte_ii=self.webpackChunkabteilung_mitte_ii||[]).push([[30],{6661:a=>{a.exports=JSON.parse('{"label":"wahl","permalink":"/blog/tags/wahl","allTagsPath":"/blog/tags","count":1}')}}]);
