@@ -99,7 +99,7 @@ const config = {
             'https://github.com/JohannesRu/abteilungs-page-exp/edit/main',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: [require.resolve('./src/css/custom.css'), require.resolve('./src/css/leaflet.css')],
         },
       }),
     ],
